@@ -6,7 +6,7 @@
 
 ## Como utilizar
 
-A calculadora está disponível [neste link](https://gustavogod.github.io/emix-calculator/), e seus botões são acionados com o click do mouse. Em breve, também será possível utilizar por meio do teclado número.
+A calculadora está disponível [neste link](https://gustavogod.github.io/emix-calculator/), e seus botões são acionados com o click do mouse. Em breve, também será possível utilizar por meio do teclado numérico.
 
 ## 🛠 Tecnologias utilizadas:
 
