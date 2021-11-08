@@ -1,6 +1,6 @@
 <img src="./capa.png" />
 
-#e.Mix calculator
+# e.Mix calculator
 > Calculadora desenvolvida em um dos testes do processo seletivo da empresa [e.Mix](https://emix.com.br).
 > Seu comportamento e operações são baseados na calculadora do Windows.
 
