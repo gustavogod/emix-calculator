@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gustavogod/emix-calculator/static/css/main.57565ab5.chunk.css",
+    "main.js": "/gustavogod/emix-calculator/static/js/main.615621c1.chunk.js",
+    "main.js.map": "/gustavogod/emix-calculator/static/js/main.615621c1.chunk.js.map",
+    "runtime-main.js": "/gustavogod/emix-calculator/static/js/runtime-main.63be81f4.js",
+    "runtime-main.js.map": "/gustavogod/emix-calculator/static/js/runtime-main.63be81f4.js.map",
+    "static/js/2.08139626.chunk.js": "/gustavogod/emix-calculator/static/js/2.08139626.chunk.js",
+    "static/js/2.08139626.chunk.js.map": "/gustavogod/emix-calculator/static/js/2.08139626.chunk.js.map",
+    "index.html": "/gustavogod/emix-calculator/index.html",
+    "static/css/main.57565ab5.chunk.css.map": "/gustavogod/emix-calculator/static/css/main.57565ab5.chunk.css.map",
+    "static/js/2.08139626.chunk.js.LICENSE.txt": "/gustavogod/emix-calculator/static/js/2.08139626.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63be81f4.js",
+    "static/js/2.08139626.chunk.js",
+    "static/css/main.57565ab5.chunk.css",
+    "static/js/main.615621c1.chunk.js"
+  ]
+}
