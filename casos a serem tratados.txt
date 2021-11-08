@@ -1,0 +1,22 @@
+------------------------
+  PRIORIDADE
+------------------------  
+
+- ler eventos do teclado
+
+
+
+
+--------------------------
+PRA FAZER DEPOIS SE DER TEMPO
+--------------------------
+-> Tratar warnings
+-> Tratamento de erros usando as práticas de manipulação de erros quando há divisão por zero
+-overflow dos números na tela
+-> quando der erro de divisão por zero, desativar e desfocar todos os botões, menos os números e =
+-> number -> operator -> backspace || operator --- Ao invés de mostrar o zero na tela, continuar mostrando o número q já estava
+-> fazer parentização da string displayTop conforme vai inserindo mais coisas na expressão
+-> expresão terminada em equal -> number -> eperator -> ...
+-> number -> operator -> negation
+-> parentização dos topDisplay
+-> formatar os números com . e , (ex: 1.234.234,80)
